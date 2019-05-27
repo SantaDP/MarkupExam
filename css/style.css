@@ -68,6 +68,7 @@ body {
   background: #eeeeee;
   border-radius: 12px;
   cursor: pointer;
+  padding: 10px;
 }
 .person:hover .extra {
   opacity: 100;
